@@ -1,0 +1,4 @@
+
+ Line#1 :Field#1=John ==> Field#1=Doe ==> Field#1=Johdoe@gmail.com ==> Field#1=38 ==> Field#1=200 ==> Field#1=70
+ Line#2 :Field#1=Jane ==> Field#2=Doe ==> Field#2=JaneDoe@gmail.com ==> Field#2=24 ==> Field#2=105 ==> Field#2=60
+ Line#3 :Field#1=Jim ==> Field#3=Dot ==> Field#3=JimDot@aol.com ==> Field#3=88 ==> Field#3=250 ==> Field#3=67
